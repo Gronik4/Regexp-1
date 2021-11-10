@@ -1,4 +1,4 @@
-import Validator from "../app";
+import Validator from '../app';
 
 const incoming = ['1sdfh_123-jh', '-sdfh_123-jh', 'sdfh_1235-jh', 'sdfh_123-jh'];
 const expected = ['Not valid1!', 'Not valid2!', 'It`s valid!!!'];
